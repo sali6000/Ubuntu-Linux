@@ -6,7 +6,7 @@ ________________________________________________________________________________
                   Installer Adobe Flash Player dans Firefox (Ubuntu 18.04 LTS Desktop)
 __________________________________________________________________________________________________________
                                     
-                                      Changer language du clavier
+                                    Etape 1: Changer language du clavier
 
 1.1 Ouvrir "Settings".
 
@@ -15,7 +15,7 @@ ________________________________________________________________________________
 1.3 Dans "Input Source", rajouter "francais => belge" et supprimer "en".
 __________________________________________________________________________________________________________ 
 
-                            Activer le téléchargement venant de partout 
+                               Etape 2: Activer le téléchargement venant de partout 
      (source:https://askubuntu.com/questions/378558/unable-to-locate-package-while-trying-to-install-packages-with-apt).
 
 2.1 Ouvrir "software & update".
@@ -23,18 +23,18 @@ ________________________________________________________________________________
 2.2 cocher les 4 premières cases pour activer les téléchargements.
 __________________________________________________________________________________________________________
 
-                                    Activer flashplayer 
+                                  Etape 3: Installer flashplayer 
       (source:https://websiteforstudents.com/install-adobe-flash-player-on-ubuntu-18-04-lts-beta-desktop/).
 
 3.1 Ouvrir le "terminal".
 
 3.2 Ecrire les lignes suivantes:
 
-sudo add-apt-repository "deb http://archive.canonical.com/ $(lsb_release -sc) partner"
+    sudo add-apt-repository "deb http://archive.canonical.com/ $(lsb_release -sc) partner"
 
-sudo apt update
+    sudo apt update
 
-sudo apt install adobe-flashplugin browser-plugin-freshplayer-pepperflash
+    sudo apt install adobe-flashplugin browser-plugin-freshplayer-pepperflash
 __________________________________________________________________________________________________________
 
-                                      Relancer Firefox
+                                   Etape 4: Relancer Firefox

@@ -36,3 +36,5 @@ sudo apt update
 
 sudo apt install adobe-flashplugin browser-plugin-freshplayer-pepperflash
 __________________________________________________________________________________________________________
+
+                                      Relancer Firefox

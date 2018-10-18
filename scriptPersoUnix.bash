@@ -5,7 +5,7 @@ setxkbmap fr
 
 # Autorisé les téléchargements de servers divers
 sudo add-apt-repository universe
-sudo add-apt-multiverse
+sudo add-apt-repository multiverse
 
 # Ajouter le server où se trouve flashPlayer
 sudo add-apt-repository "deb http://archive.canonical.com/ $(lsb_release -sc) partner"

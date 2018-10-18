@@ -30,7 +30,7 @@ Procédure à suivre:
         sudo apt install adobe-flashplugin browser-plugin-freshplayer-pepperflash
 __________________________________________________________________________________________________________
 
-                                   Etape 4: Relancer Firefox
+                                   Etape 3: Relancer Firefox
 Procédure à suivre:
 
 5. Relancer le navigateur Firefox 

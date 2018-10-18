@@ -9,4 +9,4 @@ Configurer le live ubuntu en francais, avec flashPlay en 1 click
 6. Ouvrir le terminal
 7. tapper (copier/coller):
 
-        cd /home/ubuntu/Desktop/ && sudo chmod 777 scriptPersoUnix.bash && ./scriptPersoUnix.bash
+        cd /home/ubuntu/Desktop/Ubuntu-Linux-master/ && sudo chmod 777 scriptPersoUnix.bash && ./scriptPersoUnix.bash

@@ -1,4 +1,4 @@
-# Installer Adobe Flash Player dans Ubuntu et l'activer dans Firefox
+# Installer Adobe Flash Player pour Firefox
 __________________________________________________________________________________________________________
 
                   Installer Adobe Flash Player dans Firefox (Ubuntu 18.04 LTS Desktop)

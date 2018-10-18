@@ -1,5 +1,0 @@
-Lancer ubuntu live sur une machine sans disques dur:
-
-1. Ouvrir l'iso présent dans le dossier directement dans PowerISO 
-2. Allé dans "Outils" et selectionner "créer un lecteur USB bootable"
-3. Sélectionner le fichier image et selectionner la clé USB sur laquel l'image doit être installée

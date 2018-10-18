@@ -15,3 +15,7 @@ sudo apt update
 
 # Installer Adobe Flash pour Firefox
 sudo apt install adobe-flashplugin browser-plugin-freshplayer-pepperflash
+
+# Importer dans Firefox les favoris sauvegardés
+mv /home/ubuntu/Desktop/bookmarks-2018-10-18_413_2yOFe0jj0pXUcc010Gp4TA\=\=.jsonlz4 /home/ubuntu/.mozilla/firefox/n1xx3gd0.default/bookmarkbackups/
+

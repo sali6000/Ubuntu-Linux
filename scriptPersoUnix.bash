@@ -13,9 +13,6 @@ setxkbmap be
 sudo add-apt-repository universe
 sudo add-apt-repository multiverse
 
-# Ajouter le server où se trouve flashPlayer dans la liste des servers de téléchargement de packages
-sudo add-apt-repository "deb http://archive.canonical.com/ $(lsb_release -sc) partner"
-
 # Mettre à jour
 sudo apt update
 
@@ -24,6 +21,12 @@ sudo apt install onboard
 
 # Ouvrir le clavier virtuel
 onboard
+
+# Ajouter le server où se trouve flashPlayer dans la liste des servers de téléchargement de packages
+sudo add-apt-repository "deb http://archive.canonical.com/ $(lsb_release -sc) partner"
+
+# Mettre à jour
+sudo apt update
 
 # Installer Adobe Flash pour Firefox
 sudo apt install adobe-flashplugin browser-plugin-freshplayer-pepperflash

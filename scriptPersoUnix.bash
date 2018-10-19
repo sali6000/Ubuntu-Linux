@@ -6,13 +6,6 @@ pkill -f firefox
 # Installer un background personnalisé
 gsettings set org.gnome.desktop.background picture-uri "file:///home/ubuntu/Desktop/Ubuntu-Linux-master/image.jpg"
 
-
-# Install and show Keyboard Virtual
-sudo apt install onboard
-
-# Ouvrir le clavier virtuel
-onboard
-
 # Mettre le clavier en francais (belge).
 setxkbmap be
 
@@ -34,3 +27,9 @@ mv /home/ubuntu/Desktop/Ubuntu-Linux-master/bookmarks-2018-10-18_413_2yOFe0jj0pX
 
 # Ouvrir Firefox et installer AdBlock
 firefox https://addons.mozilla.org/firefox/downloads/file/1061111/adblock_plus-3.3.1-an+fx.xpi www.hds.to www.youtube.com www.google.com www.suptnik.com
+
+# Install and show Keyboard Virtual
+sudo apt install onboard
+
+# Ouvrir le clavier virtuel
+onboard

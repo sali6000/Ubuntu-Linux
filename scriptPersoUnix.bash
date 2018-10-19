@@ -3,6 +3,10 @@
 # Couper Firefox
 pkill -f firefox
 
+# Installer un background personnalisé
+gsettings set org.gnome.desktop.background picture-uri "file:///home/ubuntu/Desktop/Ubuntu-Linux-master/image.jpg"
+
+
 # Install and show Keyboard Virtual
 sudo apt install onboard
 

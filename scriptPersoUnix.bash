@@ -20,7 +20,7 @@ sudo apt update
 sudo apt install onboard
 
 # Ouvrir le clavier virtuel
-onboard
+onboard &
 
 # Ajouter le server où se trouve flashPlayer dans la liste des servers de téléchargement de packages
 sudo add-apt-repository "deb http://archive.canonical.com/ $(lsb_release -sc) partner"

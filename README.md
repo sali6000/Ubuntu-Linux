@@ -1,5 +1,7 @@
 # Ubuntu-Linux
-Configurer le live ubuntu en francais, avec Adobe Flash et importer vos marques pages dans Firefox et le clavier visuel
+Configurer le live ubuntu en francais, avec Adobe Flash, importer des marques pages dans Firefox et le clavier visuel
+
+
 
 1. Copier/coller le dossier Ubuntu-Linux-master sur le bureau
 2. Ouvrir le terminal
